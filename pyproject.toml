@@ -31,7 +31,6 @@ reportMissingTypeStubs = true
 extraPaths = ["__pypackages__/3.10/lib"]
 
 [tool.flake8]
-max-line-length = 120
 ignore = "D100,D101,D103,D106,D102"
 max-line-length = 120
 inline-quotes = '"'
